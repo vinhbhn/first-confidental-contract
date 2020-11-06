@@ -4,7 +4,7 @@
 
 ## Core: https://github.com/vinhbhn/phala-blockchain/tree/helloworld
 
-#
+## Twitter: https://twitter.com/Kane1527/status/1324633654295867393
 
 ![alt](3_terminal.png?raw=true)
 ![alt](submit.png?raw=true)
